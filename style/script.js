@@ -8,23 +8,23 @@ const bgMusic = document.getElementById('bgMusic');
   // Mảng chứa các tin nhắn và ảnh tương ứng
   const messages = [
   {
-    text: "M làm t rung động hơi nhiều rồi đó 😾",
+    text: "Em làm anh rung động hơi nhiều rồi đó 😾",
     gif: "https://i.pinimg.com/originals/d9/4e/ef/d94eef3fc4f4af08ac6ed201017cd4c6.gif"
   },
   {
-    text: "Nhắn với m xong t cười như thằng khùng 😭",
+    text: "Nhắn với em xong anh cười như thằng khùng 😭",
     gif: "https://i.pinimg.com/originals/33/76/db/3376dbdfc1b6e8b71a2ea7353e4fc0f2.gif"
   },
   {
-    text: "Crush t chắc đáng yêu dữ lắm á",
+    text: "Crush anh chắc đáng yêu dữ lắm á",
     gif: "https://i.pinimg.com/originals/3a/fc/12/3afc12d6744a68594d29eb565c62244c.gif"
   },
   {
-    text: "Ủa sao m dễ thương hoài vậy?",
+    text: "Ủa sao em dễ thương hoài vậy?",
     gif: "https://i.pinimg.com/originals/6a/ec/ee/6aecee875e4844f34a1539054bf8aa8a.gif"
   },
   {
-    text: "Con mèo này mê m rồi 😼💗",
+    text: "Con mèo này mê em rồi 😼💗",
     gif: "https://i.pinimg.com/originals/be/39/be/be39be7b9b6a02e06f892798063406c8.gif"
   }
 ];
